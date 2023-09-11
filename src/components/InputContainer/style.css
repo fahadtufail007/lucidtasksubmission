@@ -1,0 +1,12 @@
+.wrapper{
+    border: 1px solid black;
+    margin-top: 50px;
+    height: 60px;
+    width: 400px;
+   cursor: pointer;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
