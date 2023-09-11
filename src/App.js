@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import InputComp from './components/InputComp/inputComp';
 import DropdownSelect from './components/InputComp/Index';
