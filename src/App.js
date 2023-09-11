@@ -1,12 +1,10 @@
 import './App.css';
-import InputComp from './components/InputComp/inputComp';
-import DropdownSelect from './components/InputComp/Index';
+import InputDropdownSelect from './components/InputContainer/Index';
 
 function App() {
   return (
     <div className="App">
-      <DropdownSelect/>
-      {/* <InputComp/> */}
+      <InputDropdownSelect />
     </div>
   );
 }

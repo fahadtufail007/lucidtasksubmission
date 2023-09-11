@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './style.css';
 
-const InputComp = () => {
+const InputContainer = () => {
     const data =[
         {name:'rupinder'},
         {name:"vicky"},
@@ -49,4 +49,4 @@ const InputComp = () => {
   )
 }
 
-export default InputComp;
+export default InputContainer;
